@@ -1,0 +1,20 @@
+/*
+Theme Name: Living Unhitched
+Theme URI: http://wordpress.org/themes/unhitched
+Author: Dylan Nirvana & The Bad Flowers
+Author URI: http://dylannirvana.com
+Description: A clean and simple theme
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+@import url('_/css/bootstrap.css'); 
+@import url('_/css/mystyles.css'); 
+@import url('_/css/theme.css')
+

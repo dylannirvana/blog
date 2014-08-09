@@ -1,0 +1,33 @@
+.BMC-Form{
+    float: left;
+    width: 100%;
+}
+.box_success, .box_error, .box_update{
+    margin: 10px 0;
+    padding: 0;
+    border-width: 1px;
+    border-style: solid;
+    width: 99%;
+    background:#e0ffe0;
+    border-color:#55e655;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+.box_error {
+    background:#ffebe8;
+    border-color:#cc0000;
+}
+.box_update {
+    background:#ffffe0;
+    border-color:#e6db55;
+}
+.box_success p, .box_error p, .box_update p {
+    margin: 0.6em 0;
+    padding: 0 0.6em;
+}
+.box_success a, .box_error a, .box_update a {
+    text-decoration: none;
+    padding-bottom: 2px;
+}
